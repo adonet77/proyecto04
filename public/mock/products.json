@@ -1,0 +1,52 @@
+[
+  {
+    "id": "p1",
+    "name": "Ron Añejo 12 años",
+    "price": 24.5,
+    "image": "/src/assets/img/vodka01.png",
+    "category": "ron",
+    "abv": 40,
+    "stock": 12,
+    "description": "Ron añejo, sabor suave y notas de caramelo."
+  },
+  {
+    "id": "p2",
+    "name": "Vodka Clásico",
+    "price": 18.0,
+    "image": "/assets/vodka.jpg",
+    "category": "vodka",
+    "abv": 37.5,
+    "stock": 2,
+    "description": "Vodka puro destilado, ideal para cócteles."
+  },
+  {
+    "id": "p3",
+    "name": "Whisky Single Malt",
+    "price": 45.0,
+    "image": "/assets/whisky.jpg",
+    "category": "whisky",
+    "abv": 43,
+    "stock": 5,
+    "description": "Single malt con notas ahumadas y frutales."
+  },
+  {
+    "id": "p5",
+    "name": "Ron Añejo 12 años",
+    "price": 30.0,
+    "image": "/assets/ginebra.jpg",
+    "category": "ginebra",
+    "abv": 40,
+    "stock": 10,
+    "description": "Ginebra con botánicos seleccionados."
+  },
+  {
+    "id": "p6",
+    "name": "Tequila Reposado",
+    "price": 28.0,
+    "image": "/assets/tequila.jpg",
+    "category": "tequila",
+    "abv": 38,
+    "stock": 8,
+    "description": "Tequila reposado con sabor suave y notas de agave."
+  }
+]
