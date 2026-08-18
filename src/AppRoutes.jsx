@@ -13,7 +13,7 @@ import { ToastProvider } from "./context/ToastContext";
  */
 export default function AppRoutes() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/proyecto4">
       <ToastProvider>
         <CartProvider>
           <Header />
